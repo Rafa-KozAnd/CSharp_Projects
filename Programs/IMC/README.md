@@ -1,7 +1,7 @@
 # IMC
 
 - Project Name: 'IMC';
-- Status: Under Development;
+- Status: Concluded;
 - Languages: C#;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: ;
